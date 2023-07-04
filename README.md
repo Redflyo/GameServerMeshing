@@ -7,6 +7,6 @@ This test game is a simple 2D game refers to [ServerMeshing](https://github.com/
 - A map, load **tile per tile by the client a wide world**
 - Add a mini-map share by all with the position of each other on the map.
 - Players can shoot in a direction and the bullet travel the map
-
+- Robot emulate by the Server
 # Rule
 - If a player is shoot, he respawn.
